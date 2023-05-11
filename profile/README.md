@@ -12,3 +12,10 @@ In addition to Slack, we also offer the following ways to get in touch:
 + <a href="https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/WechatIMG20.jpeg" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-OpenIMSDKCore-brightgreen?logo=wechat&style=flat-square"></a>: Add [Wechat](https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/WechatIMG20.jpeg) and indicate that you are a user or developer of Open-IM-Server. We will process your request as soon as possible.
 
 Whether you're looking to join our community or have any questions or suggestions, we welcome you to get in touch with us.
+
+## Thanks to our contributors!
+<a href="https://github.com/OpenIMSDK/Open-IM-Server/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OpenIMSDK/Open-IM-Server" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).

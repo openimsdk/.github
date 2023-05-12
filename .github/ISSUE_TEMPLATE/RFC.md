@@ -1,6 +1,6 @@
 ---
 name: RFC
-about: OpenIMSDK RFC
+about: The OpenIM RFC design template, which you should use if you have a detailed and precise feature design in mind.
 labels: kind/bug
 
 ---

@@ -1,11 +1,15 @@
 ---
 name: RFC
-about: The OpenIM RFC [design template](https://github.com/OpenIMSDK/community/blob/main/0000-template.md), which you should use if you have a detailed and precise feature design in mind.
+about: The OpenIM RFC design template, which you should use if you have a detailed and precise feature design in mind.
 labels: "proposal,RFC,kind/feature"
 
 ---
 
 # [RFC #0000] OpenIMSDK proposal template
+<!--
+🤖 design template: https://github.com/OpenIMSDK/community/blob/main/0000-template.md
+⚠️ Please submit a PR to https://github.com/OpenIMSDK/community/tree/main/RFC according to the specification after the design is completed
+-->
 ## Meta
 [meta]: #meta
 - Name: (fill in the feature name: My Feature)

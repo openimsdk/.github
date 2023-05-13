@@ -35,14 +35,6 @@ body:
     attributes:
       label: Reason for failure (if possible)
 
-  - type: dropdown
-    id: problem
-    attributes:
-      label: Are you already on [slack](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg) and getting feedback on it
-      options:
-        - "Yes(give session link)"
-        - "No"
-
   - type: textarea
     id: additional
     attributes:

@@ -1,6 +1,6 @@
 name: Bug Report
 description: Report a bug encountered while operating OpenIM
-title: "[Bug]: "
+title: "[🤖 Bug]: "
 labels: ["kind/bug"]
 body:
   - type: textarea

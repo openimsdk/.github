@@ -1,7 +1,7 @@
 ---
 name: RFC
 about: The OpenIM RFC design template, which you should use if you have a detailed and precise feature design in mind.
-labels: RFC
+labels: "RFC,proposal,kind/feature"
 
 ---
 

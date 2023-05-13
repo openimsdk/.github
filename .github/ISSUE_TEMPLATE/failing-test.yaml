@@ -1,0 +1,49 @@
+name: Failing Test
+description: Report continuously failing tests or jobs in OpenIM CI
+labels: kind/failing-test
+body:
+  - type: textarea
+    id: jobs
+    attributes:
+      label: Which job are failing?
+      placeholder: |
+        Please only use this template for submitting reports about continuously failing tests or jobs in OpenIM CI.
+    validations:
+      required: true
+
+  - type: textarea
+    id: tests
+    attributes:
+      label: Which test are failing?
+    validations:
+      required: true
+
+  - type: textarea
+    id: since
+    attributes:
+      label: Since when has it been failing?
+    validations:
+      required: true
+
+  - type: input
+    id: testgrid
+    attributes:
+      label: Testgrid link
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for failure (if possible)
+
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Are you already on [slack](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg) and getting feedback on it
+      options:
+        - "Yes(give session link)"
+        - "No"
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Anything else we need to know?

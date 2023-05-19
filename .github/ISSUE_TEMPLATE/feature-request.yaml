@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
         Thank you for initiating this feature request !🤗 
-        🔮 Expected contribution? 📖 Read our [contributor documentation](https://github.com/OpenIMSDK/Open-IM-Server/blob/main/CONTRIBUTING.md) -->
+        Expected contribution?   📖 Read our [contributor documentation](https://github.com/OpenIMSDK/Open-IM-Server/blob/main/CONTRIBUTING.md) 
   
   - type: checkboxes
     id: checklist
@@ -34,11 +34,7 @@ body:
     attributes:
       label: Problem Description
       value: 
-        <!-- ⚠️ Please ask questions in English. Thank you -->
-        <!-- Thank you for initiating this feature request !🤗 -->
-        <!-- 🔮 Expected contribution? -->
-        <!-- 📖 Read our [contributor documentation](https://github.com/OpenIMSDK/Open-IM-Server/blob/main/CONTRIBUTING.md) -->
-  
+        <!-- ⚠️ Please ask questions in English. Thank you -->  
       description: If yes, please provide a clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
     validations:
       required: false

@@ -7,6 +7,8 @@ body:
     id: jobs
     attributes:
       label: Which job are failing?
+      value: 
+        <!-- ⚠️ Please ask questions in English. Thank you -->
       placeholder: |
         Please only use this template for submitting reports about continuously failing tests or jobs in OpenIM CI.
     validations:

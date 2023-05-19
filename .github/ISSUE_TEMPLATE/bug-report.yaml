@@ -8,6 +8,7 @@ body:
     attributes:
       label: What happened?
       description: |
+        <!-- ⚠️ Please ask questions in English. Thank you -->
         Please provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner.
     validations:
       required: true

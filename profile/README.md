@@ -1,8 +1,24 @@
+# OpenIM - Join Open Source, Create the Future 🚀
+
+## Why Choose OpenIM? 🤔
+
+OpenIM is open source and free to use. It's easy to integrate into your application with server and client SDKs. The architecture is clear and can handle high-capacity data. The community is active and maintained by a dedicated team. It has rich features including one-on-one chat, group chats, history records, push notifications, and friend/group systems. It supports multiple languages such as go, Java, C++, C#, Android, iOS, JS, and Windows….. It's easy to deploy with scripts for quick installation on Windows/Linux. OpenIM is a great open source IM solution, aiming to build a top-notch open source community. It has the following characteristics: 
+
+- O-Open Source,
+- S-Scalable
+- C-Community Driven
+- I-Integrated
+- M-Multi-functional
+
+With OpenIM, you can build your own IM system at zero cost in just a few days.
+
 ## Contact Us
 
 We value close connections with our users, developers, and contributors here at OpenIMSDK. With a large community and maintainer team, we're always here to help and support you. Whether you're looking to join our community or have any questions or suggestions, we welcome you to get in touch with us.
 
 Our most recommended way to get in touch is through [Slack](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg). Even if you're in China, Slack is usually not blocked by firewalls, making it an easy way to connect with us. Our Slack community is the ideal place to discuss and share ideas and suggestions with other users and developers of OpenIMSDK. You can ask technical questions, seek help, or share your experiences with other users of OpenIMSDK.
+
+In [OpenIM community is recruiting new members! discussion] (https://github.com/orgs/OpenIMSDK/discussions/426) please leave your information, convenient we will better developers around the small gift to send to your hands.
 
 In addition to Slack, we also offer the following ways to get in touch:
 

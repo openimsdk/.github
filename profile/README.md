@@ -18,7 +18,7 @@ We value close connections with our users, developers, and contributors here at 
 
 Our most recommended way to get in touch is through [Slack](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg). Even if you're in China, Slack is usually not blocked by firewalls, making it an easy way to connect with us. Our Slack community is the ideal place to discuss and share ideas and suggestions with other users and developers of OpenIMSDK. You can ask technical questions, seek help, or share your experiences with other users of OpenIMSDK.
 
-In [OpenIM community is recruiting new members! discussion] (https://github.com/orgs/OpenIMSDK/discussions/426) please leave your information, convenient we will better developers around the small gift to send to your hands.
+In [OpenIM community is recruiting new members! discussion](https://github.com/orgs/OpenIMSDK/discussions/426) please leave your information, convenient we will better developers around the small gift to send to your hands.
 
 In addition to Slack, we also offer the following ways to get in touch:
 

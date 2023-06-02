@@ -1,6 +1,6 @@
-name: Other
+name: 🐧 Other
 description: Use this for any other issues. Please do NOT create blank issues
-title: "[OTHER]: <give this problem a name>"
+title: "[Other]: <give this problem a name>"
 labels: ["needs-triage"]
 body:
   - type: markdown

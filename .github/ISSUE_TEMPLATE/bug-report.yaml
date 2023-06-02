@@ -1,4 +1,4 @@
-name: ​:bug:​ Bug Report
+name: 🐛 Bug Report
 description: Report a bug encountered while operating OpenIM
 title: "Bug: <describe the error>"
 labels: ["kind/bug"]

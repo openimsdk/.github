@@ -1,5 +1,5 @@
 ---
-name: RFC
+name: 📇 RFC
 about: The OpenIM RFC design template, which you should use if you have a detailed and precise feature design in mind.
 title: "🔮[RFC #0000]: "
 labels: "proposal,RFC,kind/feature,enhancement"

@@ -2,7 +2,7 @@ repository:
   name: "OpenIM"
   description: "OpenIM instant messaging"
   homepage_url: "https://www.openim.online"
-  topics: kubernetes, devops, tooling, openai, sre
+  topics: openim, kubernetes, chat, chatgpt
 
   default_branch: main
   allow_squash_merge: true

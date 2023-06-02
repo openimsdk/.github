@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Connect on slack
+  - name: 📢 Connect on slack
     url: https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg
     about: Support OpenIM-related requests or issues, get in touch with developers and help on slack
-  - name: OpenIM Blog
+  - name: 🌐 OpenIM Blog
     url: https://www.openim.online/
     about: Open the OpenIM community blog

@@ -9,6 +9,7 @@
 -->
 
 #### 🔍 What type of PR is this?
+
 <!--
 We need to tag this PR, which you should learn about in the contributor guide.
 
@@ -28,7 +29,10 @@ Optionally add one or more of the following kinds if applicable:
 
 
 #### 👀 What this PR does / why we need it:
-<!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
+<!-- What this PR does? -->
+<!-- Make sure your pr passes the CI checks and do check the following fields as needed -->
+
+- [x] I read the [📚contributor documentation](https://github.com/OpenIMSDK/OpenKF/blob/main/CONTRIBUTING.md)
 - [ ] My pull request adheres to the code style of this project
 - [ ] My code requires changes to the documentation
 - [ ] I have updated the documentation as required
@@ -39,25 +43,25 @@ Optionally add one or more of the following kinds if applicable:
 
 #### 🅰 Which issue(s) this PR fixes:
 <!--
-*Automatically closes linked issue when PR is merged.
+*Automatically closes linked issue when PR is merged https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
 Usage: `Fixes #<issue number>`, or `Fixes (paste link of issue)`.
-If there are multiple PRS, use Fixes: #{ID_1}, #{ID_2}
-If there is a relevant PR, use Link #{ID}
+If there are multiple PRS, use `Resolves #10, resolves #123, resolves octo-org/octo-repo#100`
+If there is a relevant PR, use `octo-org/octo-repo#123`
 -->
 
 Fixes #
 
-
 #### 📝 Special notes for your reviewer:
 
-
-
+<!-- What else would you tell someone who reviews your code -->
 
 #### 🎯 Describe how to verify it
 
-
+<!-- Make sure to execute it `make all` locally, and it passed the test.-->
 
 #### 📑 Additional documentation e.g., RFC, notion, Google docs, usage docs, etc.:
+
+
 <!--
 This section can be blank if this pull request does not require a release note.
 

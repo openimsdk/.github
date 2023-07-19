@@ -1,4 +1,3 @@
-</br>
 <!--
 🫰 Thanks for sending a pull request!  Here are some tips for you:
 
@@ -7,7 +6,6 @@
 
 2. Ensure you have added or ran the appropriate tests for your PR:
 -->
-
 #### 🔍 What type of PR is this?
 
 <!--
@@ -31,8 +29,6 @@ Optionally add one or more of the following kinds if applicable:
 #### 👀 What this PR does / why we need it:
 <!-- What this PR does? -->
 <!-- Make sure your pr passes the CI checks and do check the following fields as needed -->
-
-- [x] I read the [📚contributor documentation](https://github.com/OpenIMSDK/OpenKF/blob/main/CONTRIBUTING.md)
 - [ ] My pull request adheres to the code style of this project
 - [ ] My code requires changes to the documentation
 - [ ] I have updated the documentation as required

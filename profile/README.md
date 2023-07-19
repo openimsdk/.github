@@ -12,6 +12,19 @@ OpenIM is open source and free to use. It's easy to integrate into your applicat
 
 With OpenIM, you can build your own IM system at zero cost in just a few days.
 
+<p align="center">
+    <a href="https://github.com/openimbot/openimbot/blob/main/assets/icon/blue%E9%80%8F%E6%98%8E.png" style="float: left; margin-right: 10px;">
+        <img src="https://github.com/openimbot/openimbot/blob/main/assets/icon/blue%E9%80%8F%E6%98%8E.png" width="50" height="50" />
+    </a>
+    <a href="https://www.openim.online">
+        <img src="https://github.com/OpenIMSDK/Open-IM-Server/blob/main/assets/logo/openim-logo.png" />
+    </a>
+    <a href="https://github.com/openimbot/openimbot/blob/main/assets/icon/red%E9%80%8F%E6%98%8E.png" style="float: right; margin-left: 10px;">
+        <img src="https://github.com/openimbot/openimbot/blob/main/assets/icon/red%E9%80%8F%E6%98%8E.png" width="50" height="50" />
+    </a>
+</p>
+
+
 ## Contact Us
 
 We value close connections with our users, developers, and contributors here at OpenIMSDK. With a large community and maintainer team, we're always here to help and support you. Whether you're looking to join our community or have any questions or suggestions, we welcome you to get in touch with us.
@@ -28,10 +41,3 @@ In addition to Slack, we also offer the following ways to get in touch:
 + <a href="https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/WechatIMG20.jpeg" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-OpenIMSDKCore-brightgreen?logo=wechat&style=flat-square"></a>: Add [Wechat](https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/WechatIMG20.jpeg) and indicate that you are a user or developer of Open-IM-Server. We will process your request as soon as possible.
 
 Whether you're looking to join our community or have any questions or suggestions, we welcome you to get in touch with us.
-
-## Thanks to our contributors!
-<a href="https://github.com/OpenIMSDK/Open-IM-Server/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OpenIMSDK/Open-IM-Server" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).

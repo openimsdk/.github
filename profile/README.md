@@ -7,7 +7,7 @@
       ⭐️  Open source top IM community  ⭐️ <br>
 </h3>
 
-OpenIM is a top-level open source IM community, Our [OpenIM-Sigs](https://github.com/openim-sigs) is recruiting more members to join us for co-development. OpenIM community is recruiting new members! [Join us](https://github.com/orgs/openimsdk/discussions/426) to contribute to open source projects and improve your engineering skills!
+[OpenIM](https://github.com/openim) is a top-level open source IM community, Our [OpenIM-Sigs](https://github.com/openim-sigs) is recruiting more members to join us for co-development. OpenIM community is recruiting new members! [Join us](https://github.com/orgs/openimsdk/discussions/426) to contribute to open source projects and improve your engineering skills!
 
 + 🌟 `O`-Open Source,
 + 🌟 `S`-Scalable

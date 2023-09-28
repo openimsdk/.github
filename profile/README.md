@@ -19,7 +19,7 @@
 But that's not all! We believe that communication and collaboration are key to building a vibrant community. That's why we have a Slack community where you can connect with other developers, share your ideas, and get help. Join us now and be a part of the conversation! 💬
 
 
-+ 🚀 [Join our Slack community](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg)
++ 🚀 [Join our Slack community](https://join.slack.com/t/openimsdk/shared_invite/zt-22720d66b-o_FvKxMTGXtcnnnHiMqe9Q)
 + 🌟 [Read about OpenIM's community management](https://github.com/OpenIMSDK/community)
 + 📚 [Openim's community site](https://github.com/openim/website)
 

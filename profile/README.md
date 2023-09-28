@@ -1,27 +1,33 @@
-<h1 align="center" style="border-bottom: none">
+<h2 align="center" style="border-bottom: none">
     <b>
         <a href="https://github.com/OpenIMSDK">Welcome to OpenIM! 🎉</a><br>
     </b>
-</h1>
-<h3 align="center" style="border-bottom: none">
-      ⭐️  Open source top IM community  ⭐️ <br>
-</h3>
+</h2>
 
-[OpenIM](https://github.com/openim) is a top-level open source IM community, Our [OpenIM-Sigs](https://github.com/openim-sigs) is recruiting more members to join us for co-development. OpenIM community is recruiting new members! [Join us](https://github.com/orgs/openimsdk/discussions/426) to contribute to open source projects and improve your engineering skills!
+![OpenIM Banner](https://github.com/openimsdk/open-im-server/blob/main/assets/logo-gif/openim-logo.gif)
 
-+ 🌟 `O`-Open Source,
-+ 🌟 `S`-Scalable
-+ 🌟 `C`-Community Driven
-+ 🌟 `I`-Integrated
-+ 🌟 `M`-Multi-functional
+We're glad to have you here! 🎉 The `openim` GitHub organization represents the next chapter in our journey of providing robust, open-source instant messaging solutions for developers and communities worldwide.
 
+## :rocket: Our Journey
 
-But that's not all! We believe that communication and collaboration are key to building a vibrant community. That's why we have a Slack community where you can connect with other developers, share your ideas, and get help. Join us now and be a part of the conversation! 💬
+Previously known as [openimsdk](https://github.com/openimsdk), we've grown and evolved. As part of this evolution, we've decided to move the core components from `openimsdk` to our new repository at `openim`. This move signifies our commitment to improving, scaling, and building a more resilient platform for all our users.
 
+## :earth_asia: Our Website
 
-+ 🚀 [Join our Slack community](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg)
+Discover more about us, our roadmap, and the cool features we're planning at our official site: [https://openim.io](https://openim.io/).
 
-We also want anyone to get involved in our community, and we offer gifts and rewards! We welcome you to join us every Thursday night for our community meetings. We take notes of each biweekly meeting in [GitHub discussions](https://github.com/OpenIMSDK/Open-IM-Server/discussions/categories/meeting), and our minutes are written in [Google Docs](https://docs.google.com/document/d/1nx8MDpuG74NASx081JcCpxPgDITNTpIIos0DS6Vr9GU/edit?usp=sharing).
+## :family: Join the Family
 
-We can't wait to see you there! 🎊
+If you're enthusiastic about instant messaging and want to collaborate, share ideas, or just hang out with like-minded people, head over to our SIG (Special Interest Group) repository: [openim-sigs](https://github.com/openim-sigs). We'd love to have you onboard!
 
+## :hammer_and_wrench: Contribution
+
+Your contributions mean the world to us! If you'd like to contribute, please review our [contribution guidelines](https://github.com/openimsdk/community)  and feel free to make pull requests. Every bit of help counts!
+
+## :mailbox_with_mail: Stay Updated
+
+Keep an eye on our [repositories](https://github.com/openimsdk) for updates, feature rollouts, and announcements. You can also subscribe to our newsletter via our [website](https://openim.io).
+
+## :hearts: Thanks & Acknowledgements
+
+A massive shoutout to our community, contributors, and everyone who believed in us since our `openimsdk` days. We wouldn't be here without you!

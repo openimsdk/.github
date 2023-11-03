@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://github.com/OpenIMSDK">Welcome to OpenIM! 🎉</a><br>
+        <a href="https://github.com/openimsdk">Welcome to OpenIM! 🎉</a><br>
     </b>
 </h1>
 <h3 align="center" style="border-bottom: none">
@@ -20,10 +20,10 @@ But that's not all! We believe that communication and collaboration are key to b
 
 
 + 🚀 [Join our Slack community](https://join.slack.com/t/openimsdk/shared_invite/zt-22720d66b-o_FvKxMTGXtcnnnHiMqe9Q)
-+ 🌟 [Read about OpenIM's community management](https://github.com/OpenIMSDK/community)
++ 🌟 [Read about OpenIM's community management](https://github.com/openimsdk/community)
 + 📚 [Openim's community site](https://openim.io)
 
-We also want anyone to get involved in our community, and we offer gifts and rewards! We welcome you to join us every Thursday night for our community meetings. We take notes of each biweekly meeting in [GitHub discussions](https://github.com/OpenIMSDK/Open-IM-Server/discussions/categories/meeting), and our minutes are written in [Google Docs](https://docs.google.com/document/d/1nx8MDpuG74NASx081JcCpxPgDITNTpIIos0DS6Vr9GU/edit?usp=sharing).
+We also want anyone to get involved in our community, and we offer gifts and rewards! We welcome you to join us every Thursday night for our community meetings. We take notes of each biweekly meeting in [GitHub discussions](https://github.com/openimsdk/open-im-server/discussions/categories/meeting), and our minutes are written in [Google Docs](https://docs.google.com/document/d/1nx8MDpuG74NASx081JcCpxPgDITNTpIIos0DS6Vr9GU/edit?usp=sharing).
 
 We can't wait to see you there! 🎊
 

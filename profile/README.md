@@ -21,7 +21,7 @@ But that's not all! We believe that communication and collaboration are key to b
 
 + 🚀 [Join our Slack community](https://join.slack.com/t/openimsdk/shared_invite/zt-22720d66b-o_FvKxMTGXtcnnnHiMqe9Q)
 + 🌟 [Read about OpenIM's community management](https://github.com/OpenIMSDK/community)
-+ 📚 [Openim's community site](https://github.com/openim/website)
++ 📚 [Openim's community site](https://openim.io)
 
 We also want anyone to get involved in our community, and we offer gifts and rewards! We welcome you to join us every Thursday night for our community meetings. We take notes of each biweekly meeting in [GitHub discussions](https://github.com/OpenIMSDK/Open-IM-Server/discussions/categories/meeting), and our minutes are written in [Google Docs](https://docs.google.com/document/d/1nx8MDpuG74NASx081JcCpxPgDITNTpIIos0DS6Vr9GU/edit?usp=sharing).
 

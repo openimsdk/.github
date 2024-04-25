@@ -1,64 +1,43 @@
-name: ✨ Feature Request
-description: Suggest and idea for this project
-title: "Feature: <Feature Request Title>"
-labels: ["kind/feature"]
-assignees:
-  - OpenIMSDK/maintainers
+name: Feature Request
+title: "[FEATURE REQUEST] "
+labels: ["feature request"]
+assignees: []
+description: "Propose a new feature or improvement that you believe will help enhance the project."
+
 body:
   - type: markdown
     attributes:
-      value: |
-        Thank you for initiating this feature request !🤗 
-        Expected contribution?   📖 Read our [contributor documentation](https://github.com/OpenIMSDK/Open-IM-Server/blob/main/CONTRIBUTING.md) 
-  
-  - type: checkboxes
-    id: checklist
-    attributes:
-      label: Checklist
-      description: "Please check the following before submitting this feature request"
-      options:
-        - label: I've searched for similar issues and couldn't find anything matching
-          required: true
-        - label: I've discussed this feature request in the [OpenIMSDK Slack](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg) and got positive feedback
-          required: true
+      value: "Thank you for taking the time to propose a feature request. Please fill in as much detail as possible to help us understand why this feature is necessary and how it should work."
 
-  - type: dropdown
-    id: problem
-    attributes:
-      label: Is this feature request related to a problem?
-      options:
-        - "✅ Yes"
-        - "❎ No"
   - type: textarea
-    id: problem_description
+    id: feature-reason
     attributes:
-      label: Problem Description
-      value: 
-        <!-- ⚠️ Please ask questions in English. Thank you -->  
-      description: If yes, please provide a clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-    validations:
-      required: false
-  - type: textarea
-    id: solution_description
-    attributes:
-      label: Solution Description
-      description: A clear and concise description of what you want to happen
+      label: Why this feature?
+      description: "Explain why this feature is needed. What problem does it solve? How does it benefit the project and its users?"
+      placeholder: "Describe the need for this feature..."
     validations:
       required: true
+
   - type: textarea
-    id: benefits_description
+    id: solution-proposal
     attributes:
-      label: Benefits
-      description: Describe the benefits this feature will bring to the project and its users
+      label: Suggested Solution
+      description: "Describe your proposed solution for this feature. How do you envision it working?"
+      placeholder: "Detail your solution here..."
     validations:
       required: true
-  - type: textarea
-    id: drawbacks
+
+  - type: markdown
     attributes:
-      label: Potential Drawbacks
-      description: Describe any potential drawbacks this feature might bring to the project and its users.
+      value: "Please provide any other relevant information or screenshots that could help illustrate your idea."
+
   - type: textarea
-    id: additional_information
+    id: additional-info
     attributes:
       label: Additional Information
-      description: Add any other context about your feature request here. If applicable, add drawings to help explain.
+      description: "Include any additional information, links, or screenshots that might be relevant to your feature request."
+      placeholder: "Add more context or links to relevant resources..."
+
+  - type: markdown
+    attributes:
+      value: "Thank you for contributing to the project! We appreciate your input and will review your suggestion as soon as possible."

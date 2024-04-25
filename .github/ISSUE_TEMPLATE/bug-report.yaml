@@ -1,18 +1,15 @@
-name: Bug Report
-title: "[BUG] "
+name: Simple Bug Report
+title: "[SIMPLE BUG] "
 labels: ["kind/bug"]
-assignees: []
-
 body:
   - type: markdown
     attributes:
-      value: "Thank you for taking the time to fill out the bug report. Please provide as much information as possible to help us understand and replicate the bug."
-
+      value: "This is a test to identify template issues."
   - type: input
-    id: openim-server-version
+    id: test-input
     attributes:
-      label: OpenIM Server Version
-      description: "Please provide the version number of OpenIM Server you are using."
-      placeholder: "e.g., 3.7.1"
+      label: Test Input
+      description: "Please provide any input here."
+      placeholder: "Type something..."
     validations:
       required: true

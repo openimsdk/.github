@@ -54,9 +54,6 @@ body:
     validations:
       required: true
 
-  - type: markdown
-    attributes:
-      value: "If possible, please add screenshots to help explain your problem."
 
   - type: textarea
     id: screenshots-link
@@ -66,6 +63,4 @@ body:
       placeholder: "Paste your screenshot URL here, e.g., http://imgur.com/example"
       render: markdown
 
-  - type: markdown
-    attributes:
-      value: "Please provide any other additional context that might be helpful."
+

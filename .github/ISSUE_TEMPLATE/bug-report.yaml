@@ -1,66 +1,9 @@
-name: Bug Report
-title: "[BUG] "
-labels: ["kind/bug"]
-assignees: []
-
 body:
-  - type: markdown
-    attributes:
-      value: "Thank you for taking the time to fill out the bug report. Please provide as much information as possible to help us understand and replicate the bug."
-
   - type: input
-    id: openim-server-version
+    id: test-input
     attributes:
-      label: OpenIM Server Version
-      description: "Please provide the version number of OpenIM Server you are using."
-      placeholder: "e.g., 3.7.1"
+      label: Test Input
+      description: "This is a test description."
+      placeholder: "e.g., Test"
     validations:
       required: true
-
-  - type: dropdown
-    id: operating-system
-    attributes:
-      label: Operating System and CPU Architecture
-      description: "Please select the operating system and describe the CPU architecture."
-      multiple: false
-      options:
-        - Linux (AMD)
-        - Linux (ARM)
-        - Windows (AMD)
-        - Windows (ARM)
-        - macOS (AMD)
-        - macOS (ARM)
-    validations:
-      required: true
-
-  - type: dropdown
-    id: deployment-method
-    attributes:
-      label: Deployment Method
-      description: "Please specify how OpenIM Server was deployed."
-      options:
-        - Source Code Deployment
-        - Docker Deployment
-    validations:
-      required: true
-
-  - type: textarea
-    id: steps-to-reproduce
-    attributes:
-      label: Steps to Reproduce
-      description: "Provide a step-by-step description of how to reproduce the bug."
-      placeholder: "1. Go to '...'\n2. Click on '...'\n3. Scroll down to '...'\n4. See error"
-      render: markdown
-    validations:
-      required: true
-
-
-  - type: textarea
-    id: screenshots-link
-    attributes:
-      label: Screenshots Link
-      description: "If applicable, please provide any links to screenshots here."
-      placeholder: "Paste your screenshot URL here, e.g., http://imgur.com/example"
-      render: markdown
-
-

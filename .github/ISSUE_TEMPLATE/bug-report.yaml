@@ -1,9 +1,18 @@
+name: Bug Report
+title: "[BUG] "
+labels: ["kind/bug"]
+assignees: []
+
 body:
-  - type: input
-    id: test-input
+  - type: markdown
     attributes:
-      label: Test Input
-      description: "This is a test description."
-      placeholder: "e.g., Test"
+      value: "Thank you for taking the time to fill out the bug report. Please provide as much information as possible to help us understand and replicate the bug."
+
+  - type: input
+    id: openim-server-version
+    attributes:
+      label: OpenIM Server Version
+      description: "Please provide the version number of OpenIM Server you are using."
+      placeholder: "e.g., 3.7.1"
     validations:
       required: true

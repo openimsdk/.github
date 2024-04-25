@@ -43,6 +43,7 @@ body:
         - Docker Deployment
     validations:
       required: true
+      
   - type: textarea
   id: bug-description-reproduction
   attributes:

@@ -1,8 +1,7 @@
 name: Bug Report
-about: Create a report to help us improve
 title: "[BUG] "
 labels: ["kind/bug"]
-assignees: ''
+assignees: []
 
 body:
   - type: markdown
@@ -59,14 +58,14 @@ body:
     attributes:
       value: "If possible, please add screenshots to help explain your problem."
 
-  - type: file
-    id: screenshots
+  - type: textarea
+    id: screenshots-link
     attributes:
-      label: Screenshots
-      description: "If applicable, attach screenshots here."
+      label: Screenshots Link
+      description: "If applicable, please provide any links to screenshots here."
+      placeholder: "Paste your screenshot URL here, e.g., http://imgur.com/example"
       render: markdown
 
   - type: markdown
     attributes:
       value: "Please provide any other additional context that might be helpful."
-

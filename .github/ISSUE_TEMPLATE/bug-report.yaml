@@ -45,13 +45,13 @@ body:
       required: true
       
   - type: textarea
-  id: bug-description-reproduction
-  attributes:
-    label: Bug Description and Steps to Reproduce
-    description: "Provide a detailed description of the bug and a step-by-step guide on how to reproduce it."
-    placeholder: "Describe the bug in detail here...\n\nSteps to reproduce the bug on the server:\n1. Start the server with specific configurations (mention any relevant config details).\n2. Make an API call to '...' endpoint with the following payload '...'.\n3. Observe the behavior and note any error messages or logs.\n4. Mention any additional setup relevant to the bug (e.g., database version, external service dependencies)."
-  validations:
-    required: true
+    id: bug-description-reproduction
+    attributes:
+      label: Bug Description and Steps to Reproduce
+      description: "Provide a detailed description of the bug and a step-by-step guide on how to reproduce it."
+      placeholder: "Describe the bug in detail here...\n\nSteps to reproduce the bug on the server:\n1. Start the server with specific configurations (mention any relevant config details).\n2. Make an API call to '...' endpoint with the following payload '...'.\n3. Observe the behavior and note any error messages or logs.\n4. Mention any additional setup relevant to the bug (e.g., database version, external service dependencies)."
+    validations:
+      required: true
 
   - type: markdown
     attributes:

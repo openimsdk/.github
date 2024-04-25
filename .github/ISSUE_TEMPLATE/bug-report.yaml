@@ -1,83 +1,72 @@
-name: 🐛 Bug Report
-description: Report a bug encountered while operating OpenIM
-title: "Bug: <describe the error>"
+name: Bug Report
+about: Create a report to help us improve
+title: "[BUG] "
 labels: ["kind/bug"]
+assignees: ''
+
 body:
-  - type: textarea
-    id: problem
+  - type: markdown
     attributes:
-      label: What happened?
-      value:
-        <!-- ⚠️ Please ask questions in English. Thank you -->
-      description: |
-        Please provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner.
+      value: "Thank you for taking the time to fill out the bug report. Please provide as much information as possible to help us understand and replicate the bug."
+
+  - type: input
+    id: openim-server-version
+    attributes:
+      label: OpenIM Server Version
+      description: "Please provide the version number of OpenIM Server you are using."
+      placeholder: e.g., 3.7.1
+    validations:
+      required: true
+
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: Operating System and CPU Architecture
+      description: "Please select the operating system and describe the CPU architecture."
+      multiple: false
+      options:
+        - Linux (AMD)
+        - Linux (ARM)
+        - Windows (AMD)
+        - Windows (ARM)
+        - macOS (AMD)
+        - macOS (ARM)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: deployment-method
+    attributes:
+      label: Deployment Method
+      description: "Please specify how OpenIM Server was deployed."
+      options:
+        - Source Code Deployment
+        - Docker Deployment
     validations:
       required: true
 
   - type: textarea
-    id: expected
+    id: steps-to-reproduce
     attributes:
-      label: What did you expect to happen?
+      label: Steps to Reproduce
+      description: "Provide a step-by-step description of how to reproduce the bug."
+      placeholder: "1. Go to '...'\n2. Click on '...'\n3. Scroll down to '...'\n4. See error"
+      render: markdown
     validations:
       required: true
 
-  - type: textarea
-    id: repro
+  - type: markdown
     attributes:
-      label: How can we reproduce it (as minimally and precisely as possible)?
-    validations:
-      required: true
+      value: "If possible, please add screenshots to help explain your problem."
 
-  - type: textarea
-    id: additional
+  - type: file
+    id: screenshots
     attributes:
-      label: Anything else we need to know?
+      label: Screenshots
+      description: "If applicable, attach screenshots here."
+      render: markdown
 
-  - type: textarea
-    id: Version
+  - type: markdown
     attributes:
-      label: version
-      value: |
-        <details>
-        ```console
-        $ {name} version
-        # paste output here
-        ```
-        </details>
-    validations:
-      required: true
+      value: "Please provide any other additional context that might be helpful."
 
-  - type: textarea
-    id: cloudProvider
-    attributes:
-      label: Cloud provider
-      value: |
-        <details>
-        </details>
-    validations:
-      required: true
-
-  - type: textarea
-    id: osVersion
-    attributes:
-      label: OS version
-      value: |
-        <details>
-        ```console
-        # On Linux:
-        $ cat /etc/os-release
-        # paste output here
-        $ uname -a
-        # paste output here
-        # On Windows:
-        C:\> wmic os get Caption, Version, BuildNumber, OSArchitecture
-        # paste output here
-        ```
-        </details>
-  - type: textarea
-    id: installer
-    attributes:
-      label: Install tools
-      value: |
-        <details>
-        </details>

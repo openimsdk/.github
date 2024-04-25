@@ -1,5 +1,6 @@
 name: Simple Bug Report
 title: "[SIMPLE BUG] "
+description: Suggest and idea for this project
 labels: ["kind/bug"]
 body:
   - type: markdown

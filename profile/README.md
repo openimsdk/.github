@@ -1,29 +1,18 @@
-<h1 align="center" style="border-bottom: none">
-    <b>
-        <a href="https://github.com/openimsdk">Welcome to OpenIM! 🎉</a><br>
-    </b>
-</h1>
-<h3 align="center" style="border-bottom: none">
-      ⭐️  Open source top IM community  ⭐️ <br>
-</h3>
+# Welcome to OpenIM! 🌟
 
-[OpenIM](https://github.com/openim) is a top-level open source IM community, Our [OpenIM-Sigs](https://github.com/openim-sigs) is recruiting more members to join us for co-development. OpenIM community is recruiting new members! [Join us](https://github.com/orgs/openimsdk/discussions/426) to contribute to open source projects and improve your engineering skills!
+OpenIM is not just another chat application; it's an innovative open-source instant messaging solution specifically designed for developers. Unlike standalone applications like Telegram, Signal, and Rocket.Chat that provide complete user interfaces and backend services for general users, OpenIM offers a powerful backend and SDK tailored for seamless integration into your own applications.
 
-+ 🌟 `O`-Open Source,
-+ 🌟 `S`-Scalable
-+ 🌟 `C`-Community Driven
-+ 🌟 `I`-Integrated
-+ 🌟 `M`-Multi-functional
+## Why Choose OpenIM?
+- **Developer-Focused:** OpenIM provides the essential tools and frameworks necessary to integrate advanced messaging features efficiently into any application.
+- **Flexible Integration:** Consisting of the OpenIM SDK and OpenIM Server, our platform facilitates the easy incorporation of features such as message sending/receiving, user management, and group management into your projects.
+- **Community Driven:** OpenIM is committed to fostering a vibrant community where developers can collaborate, share ideas, and push the boundaries of what's possible in instant messaging technology.
 
+## Join Our Community 🚀
+We believe that collaboration is the cornerstone of innovation. That’s why we’ve created various platforms for developers like you to connect, learn, and grow together. Get involved with the OpenIM community through:
 
-But that's not all! We believe that communication and collaboration are key to building a vibrant community. That's why we have a Slack community where you can connect with other developers, share your ideas, and get help. Join us now and be a part of the conversation! 💬
+- 💬 **[Twitter](https://twitter.com/founder_im63606):** Follow us for updates, tips, and community highlights.
+- 🚀 **[Slack](https://join.slack.com/t/openimsdk/shared_invite/zt-22720d66b-o_FvKxMTGXtcnnnHiMqe9Q):** Join our Slack community to connect with other developers, get your questions answered, and help others.
+- :eyes: **[WeChat Group](https://openim-1253691595.cos.ap-nanjing.myqcloud.com/WechatIMG20.jpeg):** Dive into discussions with like-minded developers in our WeChat group.
 
-
-+ 🚀 [Join our Slack community](https://join.slack.com/t/openimsdk/shared_invite/zt-22720d66b-o_FvKxMTGXtcnnnHiMqe9Q)
-+ 🌟 [Read about OpenIM's community management](https://github.com/openimsdk/community)
-+ 📚 [Openim's community site](https://openim.io)
-
-We also want anyone to get involved in our community, and we offer gifts and rewards! We welcome you to join us every Thursday night for our community meetings. We take notes of each biweekly meeting in [GitHub discussions](https://github.com/openimsdk/open-im-server/discussions/categories/meeting), and our minutes are written in [Google Docs](https://docs.google.com/document/d/1nx8MDpuG74NASx081JcCpxPgDITNTpIIos0DS6Vr9GU/edit?usp=sharing).
-
-We can't wait to see you there! 🎊
+### We're excited to see you join us! 🎉
 

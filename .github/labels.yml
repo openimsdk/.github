@@ -1,5 +1,6 @@
 # Refer to Kubernetes for size/* Settings
 # https://github.com/Kubernetes/Kubernetes
+
 XS:
   name: size/XS
   lines: 0

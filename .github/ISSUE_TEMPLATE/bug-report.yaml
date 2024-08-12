@@ -1,8 +1,8 @@
 name: Bug Report
 title: "[BUG] "
-labels: ["kind/bug"]
+labels: ["bug"]
 description: "Create a detailed report to help us identify and resolve issues."
-assignees: []
+# assignees: []
 
 body:
   - type: markdown
@@ -14,7 +14,7 @@ body:
     attributes:
       label: OpenIM Server Version
       description: "Please provide the version number of OpenIM Server you are using."
-      placeholder: "e.g., 3.7.1"
+      placeholder: "e.g., 3.8.0"
     validations:
       required: true
 

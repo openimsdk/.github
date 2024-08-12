@@ -1,7 +1,7 @@
 repository:
   name: "OpenIM"
   description: "OpenIM instant messaging"
-  homepage_url: "https://www.openim.online"
+  homepage_url: "https://www.openim.io"
   topics: openim, kubernetes, chat, chatgpt
 
   default_branch: main

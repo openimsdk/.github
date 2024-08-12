@@ -1,7 +1,8 @@
 name: 🐧 Other
 description: Use this for any other issues. Please do NOT create blank issues
 title: "[Other]: <give this problem a name>"
-labels: ["needs-triage"]
+labels: ["other"]
+
 body:
   - type: markdown
     attributes:
